@@ -3,7 +3,7 @@
     "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
     "logo": "https://i.imgur.com/OseHc3b.jpg",
     "keywords": ["whatsapp", "userbot", "Abu", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Afx-Abu/Abu_ser",
+    "repository": "https://github.com/ihtisham3565/Abu_ser",
     "website":   "https://github.com/Afx-Abu/Abu_ser",
     "success_url": "https://github.com/Afx-Abu/Abu_ser",
     "stack": "container",
@@ -140,7 +140,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "💫...𝑯𝑨𝑩𝑬𝑬𝑩𝑰 𝑪𝑶𝑴𝑬 𝑻𝑶 𝑮𝑹𝑶𝑼𝑷💋"
+            "value": "💫...𝑯𝑨𝑩𝑬𝑬𝑩𝑰 𝑪𝑶𝑴𝑬 𝑻𝑶 𝑮𝑹𝑶𝑼𝑷🙈✨🍁"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
