@@ -62,7 +62,7 @@ https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser
   ## Developers
   <div align="center">
     
-  [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu)
+  [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/ihtisham3565)
 
 [Afx-Abu](https://github.com/Afx-Abu)        
 Developer, Base, Bug Fixes, Modules
